@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6a4e9f8.css",
+    "main.js": "/static/js/main.6cb26d0e.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/5Project.png": "/static/media/5Project.1cdf5b0acc08920fd5c2.png",
+    "static/media/4Project.png": "/static/media/4Project.499518e05e8ca5e2b00f.png",
+    "static/media/6Project.png": "/static/media/6Project.162b7a00535e74be2b96.png",
+    "static/media/1Projects.png": "/static/media/1Projects.787fb97857b620973231.png",
+    "static/media/music player mini.png": "/static/media/music player mini.bd1a724cf769f3fb9d18.png",
+    "static/media/men-com.jpeg": "/static/media/men-com.2962402fea9ce441a7d9.jpeg",
+    "static/media/2project.png": "/static/media/2project.413eee41a9c2576ab23c.png",
+    "static/media/3project.png": "/static/media/3project.e97db130502cc7902902.png",
+    "static/media/profile-pic.jpg": "/static/media/profile-pic.b05c67c92c3203e8030d.jpg",
+    "static/media/7project.png": "/static/media/7project.35498edb9bb7a24ebbf7.png",
+    "index.html": "/index.html",
+    "main.c6a4e9f8.css.map": "/static/css/main.c6a4e9f8.css.map",
+    "main.6cb26d0e.js.map": "/static/js/main.6cb26d0e.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6a4e9f8.css",
+    "static/js/main.6cb26d0e.js"
+  ]
+}
